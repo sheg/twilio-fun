@@ -15,7 +15,7 @@ import com.twilio.sdk.resource.instance.Call;
  *
  */
 public class CallManager {
-	// instance variables
+	
 	private CallFactory _callFactory = null;
 	private Account _mainAccount;
 	private Call _call = null;
